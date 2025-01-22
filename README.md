@@ -1,4 +1,4 @@
-# WebMail.Backend.CodindFactory
+# WebMail.Backend
 WebMail is a web-based application designed to send emails efficiently. It provides a user-friendly interface for composing and sending emails, viewing sent email history,as well as creating folders to organize emails and managing TODO tasks. Note that WebMailer does not require a mail server to send emails.
 
 
