@@ -37,7 +37,7 @@ To install and set up WebMail, follow these steps:
 
 ```
 git clone https://github.com/papajohn-git/WebMail.Backend.git
-cd WebMail
+cd WebMail.Backend
 ```
 
 2.	Install dependencies:
