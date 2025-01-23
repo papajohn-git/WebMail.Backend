@@ -72,7 +72,7 @@ dotnet ef database update
 
 ## Usage
 
-To use WebMail, open your web browser and navigate to https://localhost:5001.
+To use WebMail, open your web browser and navigate to https://localhost:5001/swagger/index.html
 
 ## Dummy Data
 
